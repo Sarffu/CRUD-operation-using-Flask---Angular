@@ -1,0 +1,28 @@
+/* app.component.css
+
+body {
+    background-color: lightgreen;
+
+} */
+
+h1 {
+    color: coral;
+    text-align: center;
+}
+
+button {
+    background-color: lightpink;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+form {
+    margin-bottom: 3px;
+    border-radius: 5px;
+}
+
+p {
+    color: darkslateblue;
+    margin-left: 5px;
+    font-size: 20px;
+}
